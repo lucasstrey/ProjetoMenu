@@ -29,13 +29,7 @@ This project showcases clean design principles, semantic HTML structure, and reu
 ---
 
 ## 📂 Project Structure  
-project-folder/
-│── index.html
-│── style.css
-│── assets/
-│ ├── receita.jpg
-│ └── recipe-preview.jpg
-│── README.md
+<img width="226" height="181" alt="image" src="https://github.com/user-attachments/assets/02d45324-1c5b-4239-804f-0cc7e1a0be3a" />
 
 ---
 
