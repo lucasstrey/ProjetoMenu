@@ -1,0 +1,66 @@
+body{
+    background-image: url(assets/Página\ de\ receita.jpg);
+    background-size: cover;
+    font-family:"Poppins", Arial, sans-serif;
+    color: #4B3621;
+  
+}
+h1{
+  color: #4B3621; 
+  text-align: center;
+}
+h2{
+
+color: #8C3C2B;
+text-align: center;
+}
+
+#page{
+ box-sizing: border-box;   
+ width: 800px;
+ padding: 24px;
+ background-color: #F0E8C2;
+ border-radius: 24px;
+ margin: 48px auto;
+}
+
+#about{
+
+line-height: 1.4;
+padding: 16px;
+
+background-color: #FAF7EF;
+border-radius: 16px;
+box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+
+
+#ingredients{
+margin-top: 5px;
+padding: 16px;
+line-height: 1.8;
+background-color: #FAF7EF;
+border-radius: 16px;
+box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+
+#preparation{
+margin-top: 5px;
+padding: 16px;
+background-color: #FAF7EF;
+border-radius: 16px;
+box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+
+
+img{
+    border-radius: 24px;
+}
+
+
+
+#footerstyled{
+text-align: center;
+margin-top: 20px;
+padding:5px 0 5px 0;
+}
